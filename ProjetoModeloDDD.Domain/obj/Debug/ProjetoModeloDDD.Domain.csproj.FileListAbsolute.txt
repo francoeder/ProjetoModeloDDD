@@ -1,0 +1,5 @@
+C:\Projetos\projetos-visual-studio\MVC5\ProjetoModeloDDD.MVC\ProjetoModeloDDD.Domain\obj\Debug\ProjetoModeloDDD.Domain.csprojResolveAssemblyReference.cache
+C:\Projetos\projetos-visual-studio\MVC5\ProjetoModeloDDD.MVC\ProjetoModeloDDD.Domain\bin\Debug\ProjetoModeloDDD.Domain.dll
+C:\Projetos\projetos-visual-studio\MVC5\ProjetoModeloDDD.MVC\ProjetoModeloDDD.Domain\bin\Debug\ProjetoModeloDDD.Domain.pdb
+C:\Projetos\projetos-visual-studio\MVC5\ProjetoModeloDDD.MVC\ProjetoModeloDDD.Domain\obj\Debug\ProjetoModeloDDD.Domain.dll
+C:\Projetos\projetos-visual-studio\MVC5\ProjetoModeloDDD.MVC\ProjetoModeloDDD.Domain\obj\Debug\ProjetoModeloDDD.Domain.pdb

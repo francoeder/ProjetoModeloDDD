@@ -1,0 +1,12 @@
+C:\Projetos\projetos-visual-studio\MVC5\ProjetoModeloDDD.MVC\ProjetoModeloDDD.Infra.Data\obj\Debug\ProjetoModeloDDD.Infra.Data.csprojResolveAssemblyReference.cache
+C:\Projetos\projetos-visual-studio\MVC5\ProjetoModeloDDD.MVC\ProjetoModeloDDD.Infra.Data\bin\Debug\ProjetoModeloDDD.Infra.Data.dll.config
+C:\Projetos\projetos-visual-studio\MVC5\ProjetoModeloDDD.MVC\ProjetoModeloDDD.Infra.Data\bin\Debug\ProjetoModeloDDD.Infra.Data.dll
+C:\Projetos\projetos-visual-studio\MVC5\ProjetoModeloDDD.MVC\ProjetoModeloDDD.Infra.Data\bin\Debug\ProjetoModeloDDD.Infra.Data.pdb
+C:\Projetos\projetos-visual-studio\MVC5\ProjetoModeloDDD.MVC\ProjetoModeloDDD.Infra.Data\bin\Debug\EntityFramework.dll
+C:\Projetos\projetos-visual-studio\MVC5\ProjetoModeloDDD.MVC\ProjetoModeloDDD.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projetos\projetos-visual-studio\MVC5\ProjetoModeloDDD.MVC\ProjetoModeloDDD.Infra.Data\bin\Debug\ProjetoModeloDDD.Domain.dll
+C:\Projetos\projetos-visual-studio\MVC5\ProjetoModeloDDD.MVC\ProjetoModeloDDD.Infra.Data\bin\Debug\ProjetoModeloDDD.Domain.pdb
+C:\Projetos\projetos-visual-studio\MVC5\ProjetoModeloDDD.MVC\ProjetoModeloDDD.Infra.Data\bin\Debug\EntityFramework.xml
+C:\Projetos\projetos-visual-studio\MVC5\ProjetoModeloDDD.MVC\ProjetoModeloDDD.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projetos\projetos-visual-studio\MVC5\ProjetoModeloDDD.MVC\ProjetoModeloDDD.Infra.Data\obj\Debug\ProjetoModeloDDD.Infra.Data.dll
+C:\Projetos\projetos-visual-studio\MVC5\ProjetoModeloDDD.MVC\ProjetoModeloDDD.Infra.Data\obj\Debug\ProjetoModeloDDD.Infra.Data.pdb
